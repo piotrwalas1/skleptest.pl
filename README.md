@@ -14,7 +14,7 @@ Projekt obejmuje kompleksowe testy funkcjonalne oraz UX platformy sprzedażowej 
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
    <li><a href="https://youtu.be/NcaB9kL26W0">Selenium -przypadek testowy -zakup w sklepie E2E</a></li>
-   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Users%20story%20Skleptest.pdf"</a></li>
+   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Users%20story%20Skleptest.pdf">Users Story</a></li>
    
 ## 🛠️ Metodyka i Narzędzia
 W trakcie testów wykorzystano:
